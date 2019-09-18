@@ -4,4 +4,5 @@
   - [3. MyBlog-Web](chapter3/chapter3.md) 
   - [4. MyBlog-SpiderSystem](chapter4/chapter4.md) 
   - [5. MyBlog-DataSystem](chapter5/chapter5.md) 
+  - [5. MyBlog-DataAlgorithm](chapter6/chapter6.md) 
   
