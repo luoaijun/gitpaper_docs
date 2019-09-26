@@ -3,7 +3,7 @@
 > Get my package from maven  
 
 ## mcp 
-
+[mcp-quick start](https://luoaijun.github.io/com.cdes.custom.talend/#/chapter2/chapter2)
 - Install 
 ```
 maven install com.servier.mcp
