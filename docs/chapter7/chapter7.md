@@ -23,7 +23,7 @@ mvn install com.luoaijun.mcp
 ```
 
 
-## Repository：mcp 
+## Repository：utils 
  
 
 - Install 
