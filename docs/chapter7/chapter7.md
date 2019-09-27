@@ -1,12 +1,11 @@
-## Technology-maven package
+## Technology-package
 
-> Get my package from maven  
+> [Push Your JAR to maven center](https://luoaijun.github.io/note-book/#/chapter4/chapter4)
 
-## mcp 
+## Repository：mcp 
 1. [mcp quick-start](https://luoaijun.github.io/com.cdes.custom.talend/#/chapter2/chapter2)
 2. [source code](https://github.com/luoaijun/MCPUtils)
 
-> loading......
 
 - Install 
 ```
