@@ -24,7 +24,7 @@
 ---
 > By creating issues on JIRA to apply for new jar packages, Sonatype staff will review them.
 
-![issue](resources/images/2.PNG? "create your issue")
+![issue](resources/images/2.png? "create your issue")
 
 #### 4. Create and push your gpg autograph
 
