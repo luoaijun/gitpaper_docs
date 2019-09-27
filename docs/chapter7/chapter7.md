@@ -9,15 +9,34 @@
 
 - Install 
 ```
-maven install com.servier.mcp
+mvn install com.luoaijun.mcp
 ```
 
 
 - pom 
 ```
 <dependency>
-    <groupId>com.servier</groupId>
+    <groupId>com.luoaijun</groupId>
     <artifactId>mcp</artifactId>
     <version>1.2</version>
+</dependency>
+```
+
+
+## Repository：mcp 
+ 
+
+- Install 
+```
+mvn instal com.luoaijun.utils
+```
+
+
+- pom 
+```
+<dependency>
+    <groupId>com.luoaijun</groupId>
+    <artifactId>utils</artifactId>
+    <version>1.0</version>
 </dependency>
 ```
