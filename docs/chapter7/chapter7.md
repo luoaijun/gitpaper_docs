@@ -40,3 +40,5 @@ mvn instal com.luoaijun.utils
     <version>1.0</version>
 </dependency>
 ```
+
+![utils](resources/images/5.PNG)
