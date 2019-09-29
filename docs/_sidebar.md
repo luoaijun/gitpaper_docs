@@ -6,5 +6,5 @@
   - [5. CloudDataEcoSystem-DataSystem](chapter5/chapter5.md) 
   - [6. CloudDataEcoSystem-DataAlgorithm](chapter6/chapter6.md) 
   - [7. Maven-mvnrepository](chapter7/chapter7.md) 
-  - [7. PyPi-python package](chapter8/chapter8.md) 
+  - [8. PyPi-python package](chapter8/chapter8.md) 
   
