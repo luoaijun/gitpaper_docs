@@ -17,4 +17,4 @@
 pip install KongFuPanda
 ```
 
-![KongFuPanda](resource/images/3.PNG)
+![KongFuPanda](resources/images/3.PNG)
