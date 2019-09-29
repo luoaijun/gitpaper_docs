@@ -1,6 +1,6 @@
 ## PyPi-package
 
-> [Push Your JAR to PyPi](https://luoaijun.github.io/note-book/#/chapter4/chapter4)
+> [Push Your JAR to PyPi](https://luoaijun.github.io/note-book/#/chapter5/chapter5)
 
 ## Package-01：KongFuPanda
 
