@@ -21,7 +21,7 @@ mvn install com.luoaijun.mcp
     <version>1.2</version>
 </dependency>
 ```
-
+- [download jar](https://repo1.maven.org/maven2/com/luoaijun/mcp/mcp/1.2/mcp-1.2.jar) 
 
 ## Repository：utils 
  
@@ -40,5 +40,6 @@ mvn instal com.luoaijun.utils
     <version>1.0</version>
 </dependency>
 ```
+- [download jar ](https://repo1.maven.org/maven2/com/luoaijun/utils/1.0/utils-1.0.jar)
 
 ![utils](resources/images/5.PNG)
