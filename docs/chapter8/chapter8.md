@@ -22,6 +22,8 @@ pip install KongFuPanda
 
 ## Package-01：ai-pool
 
+![KongFuPanda](resources/images/3.PNG)
+
 > Framework for Advanced Statistics and Data Sciences
 
 
@@ -36,9 +38,19 @@ pip install ai-pool
 ```
 ###### Example
 
+**Process file**
+
+![KongFuPanda](resources/images/8.PNG)
+
+**Coding：**
 ```
-import ai-pool
+from aiPool.text_classification import TextClassification
+
+if __name__ == '__main__':
+    TextClassification.Classification().run("spider_corpus")
 
 ```
 
-![KongFuPanda](resources/images/6.PNG)
+**Result**
+
+![KongFuPanda](resources/images/7.PNG)
