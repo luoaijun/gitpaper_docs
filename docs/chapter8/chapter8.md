@@ -18,3 +18,27 @@ pip install KongFuPanda
 ```
 
 ![KongFuPanda](resources/images/3.PNG)
+
+
+## Package-01：ai-pool
+
+> Framework for Advanced Statistics and Data Sciences
+
+
+
+###### Source code：[https://github.com/luoaijun/com.luoaijun.data](https://github.com/luoaijun/com.luoaijun.data)
+
+
+###### Install
+
+```
+pip install ai-pool
+```
+###### Example
+
+```
+import ai-pool
+
+```
+
+![KongFuPanda](resources/images/6.PNG)
