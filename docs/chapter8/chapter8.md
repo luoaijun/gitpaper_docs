@@ -34,7 +34,7 @@ pip install KongFuPanda
 ###### Install
 
 ```
-pip install ai-pool
+pip install aiPool
 ```
 ###### Example
 
