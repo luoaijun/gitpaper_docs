@@ -4,4 +4,4 @@
 
 ## What does it do?
 
-![架构](resources/images/架构.PNG)
+![架构](resources/images/架构.png)
