@@ -1,4 +1,4 @@
-## My Blog System - Data Algorithm
+## aiPool - Data Algorithm
  
 > Data Algorithm
 

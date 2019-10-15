@@ -1,4 +1,4 @@
-## My Blog System
+## aiPool
  
 URL: [blog.luoaijun.com](blog.luoaijun.com)
 > 未备案，暂时无法访问
