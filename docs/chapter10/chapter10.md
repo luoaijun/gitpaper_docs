@@ -1,6 +1,6 @@
-## aiPool - GDC-View
+## aiPool - GDC.View
  
->  aiPool - GDC-View
+>  aiPool - GDC.View
 
 
 
