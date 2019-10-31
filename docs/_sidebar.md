@@ -5,6 +5,8 @@
   - [4. aiPool-SpiderSystem](chapter4/chapter4.md) 
   - [5. aiPool-DataSystem](chapter5/chapter5.md) 
   - [6. aiPool-DataAlgorithm](chapter6/chapter6.md) 
-  - [7. middleware-maven](chapter7/chapter7.md) 
-  - [8. middleware-pypi](chapter8/chapter8.md) 
+  - [7. aiPool-DataAlgorithm](chapter9/chapter9.md) 
+  - [8. aiPool-DataAlgorithm](chapter10/chapter10.md) 
+  - [9. middleware-maven](chapter7/chapter7.md) 
+  - [10. middleware-pypi](chapter8/chapter8.md) 
   
