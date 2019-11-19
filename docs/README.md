@@ -18,5 +18,5 @@
 7. [aiPool-GDC](chapter9/chapter9.md):  
 8. [aiPool-GDC.View](chapter10/chapter10.md): 
 9. [middleware-maven](chapter7/chapter7.md): My jar package in the Maven central warehouse
-19. [middleware-pypi](chapter8/chapter8.md):My jar package in the pypi
+10. [middleware-pypi](chapter8/chapter8.md):My jar package in the pypi
 
