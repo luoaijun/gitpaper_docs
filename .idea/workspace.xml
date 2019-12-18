@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6fd600-4134-481d-8c50-ad8868af9cca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/demo/demo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <updated>1568709420907</updated>
       <workItem from="1568709422170" duration="6957000" />
       <workItem from="1568873635415" duration="24000" />
-      <workItem from="1576653614609" duration="1246000" />
+      <workItem from="1576653614609" duration="1473000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576653881470</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add something">
+      <created>1576654902408</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576654902408</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -160,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="luoaijun.luoaijun init" />
-    <option name="LAST_COMMIT_MESSAGE" value="luoaijun.luoaijun init" />
+    <MESSAGE value="add something" />
+    <option name="LAST_COMMIT_MESSAGE" value="add something" />
   </component>
 </project>

@@ -20,5 +20,8 @@
 8. [aiPool-GDC.View](chapter10/chapter10.md): 
 9. [middleware-maven](chapter7/chapter7.md): My jar package in the Maven central warehouse
 10. [middleware-pypi](chapter8/chapter8.md):My jar package in the pypi
+11. [Project-Demo case for data analysis
+](demo/demo.md):Project-Demo case for data analysis
+
 
 ![image](github.PNG)
