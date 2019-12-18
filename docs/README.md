@@ -16,8 +16,8 @@
 4. [aiPool-SpiderSystem](Spider/chapter4.md): Subprojects in Personal Projects - SpiderSystem Projects
 5. [aiPool-DataSystem](aiPooDataSystem/chapter5.md): Subprojects in Personal Projects - DataSystem Projects
 6. [aiPool-DataAlgorithm](Algorithm/chapter6.md): Subprojects in Personal Projects - DataAlgorithm Projects
-7. [aiPool-GDC](GDC/chapter9.md):  
-8. [aiPool-GDC.View](GDCView/chapter10.md): 
+7. [aiPool-GDC](GDC/chapter9.md):  It will be a very common data middleware
+8. [aiPool-GDC.View](GDCView/chapter10.md): gdc view
 9. [middleware-maven](mvn/chapter7.md): My jar package in the Maven central warehouse
 10. [middleware-pypi](PyPi/chapter8.md):My jar package in the pypi
 11. [Project-Demo case for data analysis

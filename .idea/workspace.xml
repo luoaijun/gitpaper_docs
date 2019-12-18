@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6fd600-4134-481d-8c50-ad8868af9cca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Algorithm/Algorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/GDC/GDC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/MCPLOADER/MCPLOADER.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/PyPi/PyPi.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/chapter1.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Notes/Notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/chapter10.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/GDCView.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/11.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/11.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/2.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/4.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/4.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/5.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/6.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/7.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/7.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter10/resources/images/8.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/GDCView/resources/images/8.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/chapter2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/chapter3.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/chapter4.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Spider/Spider.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/chapter5.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/aiPooDataSystem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/resources/images/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/resources/images/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/resources/images/9.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/resources/images/9.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/resources/images/架构.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/resources/images/架构.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/chapter6.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/chapter7.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/mvn/mvn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/resources/images/5.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/mvn/resources/images/5.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/chapter8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/resources/images/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PyPi/resources/images/3.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/resources/images/6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PyPi/resources/images/6.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/resources/images/7.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PyPi/resources/images/7.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/resources/images/8.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PyPi/resources/images/8.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter9/chapter9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/aiPooDataSystem/aiPooDataSystem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/aiPooDataSystem.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +74,7 @@
       <updated>1568709420907</updated>
       <workItem from="1568709422170" duration="6957000" />
       <workItem from="1568873635415" duration="24000" />
-      <workItem from="1576653614609" duration="2932000" />
+      <workItem from="1576653614609" duration="3565000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -177,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576655121755</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add something">
+      <created>1576658650688</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576658650688</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
