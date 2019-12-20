@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd6fd600-4134-481d-8c50-ad8868af9cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/aiPooDataSystem/aiPooDataSystem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPooDataSystem/aiPooDataSystem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -91,7 +92,8 @@
       <workItem from="1568709422170" duration="6957000" />
       <workItem from="1568873635415" duration="24000" />
       <workItem from="1576653614609" duration="7395000" />
-      <workItem from="1576812444852" duration="2163000" />
+      <workItem from="1576812444852" duration="3441000" />
+      <workItem from="1576837287138" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576814233414</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="datasystem">
+      <created>1576814655044</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1576814655044</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -230,6 +239,7 @@
     <MESSAGE value="luoaijun.luoaijun init" />
     <MESSAGE value="add something" />
     <MESSAGE value="datahub" />
-    <option name="LAST_COMMIT_MESSAGE" value="datahub" />
+    <MESSAGE value="datasystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="datasystem" />
   </component>
 </project>
