@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6fd600-4134-481d-8c50-ad8868af9cca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/MCPLOADER/resources/images/talend.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/aiPoolWeb/resources/1.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/MCPLOADER/MCPLOADER.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/MCPLOADER/MCPLOADER.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,18 +38,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/MCPLOADER/resources/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs\MCPLOADER\resources\images" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun" />
       <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs\aiPoolWeb\resources\images" />
+      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs\aiPoolWeb\resources" />
+      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs\MCPLOADER\resources\images" />
       <recent name="C:\work\CDES\code\com.luoaijun.luoaijun\docs" />
-      <recent name="C:\work\CDES\code\com.luoaijun.luoaijun" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +78,8 @@
       <updated>1568709420907</updated>
       <workItem from="1568709422170" duration="6957000" />
       <workItem from="1568873635415" duration="24000" />
-      <workItem from="1576653614609" duration="5248000" />
+      <workItem from="1576653614609" duration="7395000" />
+      <workItem from="1576812444852" duration="1128000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -161,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576659396989</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add something">
+      <created>1576723383958</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576723383958</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -181,7 +192,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
