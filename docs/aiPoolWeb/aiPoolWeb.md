@@ -2,6 +2,8 @@
  
 > We are committed to building an open data center，just like github.
 
+- 在线：http://www.datashub.net:18080/#/   
+注意(未发布，内网穿透中，不稳定)
 - 项目地址：[https://github.com/luoaijun/Datahub-open](https://github.com/luoaijun/datahub-view)
 - 网站源码地址：[https://github.com/luoaijun/Datahub](https://github.com/luoaijun/Datahub)
 - 日志：
