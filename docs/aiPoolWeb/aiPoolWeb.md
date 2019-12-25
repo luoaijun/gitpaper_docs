@@ -7,6 +7,7 @@
 - 项目地址：[https://github.com/luoaijun/Datahub-open](https://github.com/luoaijun/datahub-view)
 - 网站源码地址：[https://github.com/luoaijun/Datahub](https://github.com/luoaijun/Datahub)
 - 日志：
+    - 2019.12.25-更新了UI界面，并增加热搜词检索
     - 2019.12.25-解决了当前路由跳转不刷新界面的问题
     - 2019.12.25-新增个人中心界面（持续修正中）
     - 2019.12.25-新增search界面 （持续修正中）
