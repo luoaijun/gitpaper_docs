@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd6fd600-4134-481d-8c50-ad8868af9cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/aiPoolWeb/aiPoolWeb.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,7 @@
       <workItem from="1576812444852" duration="3441000" />
       <workItem from="1576837287138" duration="246000" />
       <workItem from="1577240566822" duration="5609000" />
-      <workItem from="1577353880279" duration="69000" />
+      <workItem from="1577353880279" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577267000772</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add">
+      <created>1577353975456</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1577353975457</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">

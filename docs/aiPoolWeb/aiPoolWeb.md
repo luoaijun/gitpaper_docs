@@ -22,6 +22,8 @@
 
 - 主页面  
 ![image](http://192.144.186.150/images/datahub/2.PNG)
+- 中文分词搜索  
+![image](http://192.144.186.150/images/datahub/8.PNG)
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
