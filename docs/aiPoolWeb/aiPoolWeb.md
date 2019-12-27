@@ -4,7 +4,7 @@
 
 - 在线：http://www.datashub.net:18080/#/   
 注意(未发布，内网穿透中，不稳定)
-- 项目地址：[https://github.com/luoaijun/Datahub-open](https://github.com/luoaijun/datahub-view)
+- 项目地址：[https://github.com/AiPoolll/DatahubOpen.git](https://github.com/AiPoolll/DatahubOpen.git)
 - 网站源码地址：[https://github.com/luoaijun/Datahub](https://github.com/luoaijun/Datahub)
 - 日志：
 
@@ -27,6 +27,8 @@
 ![image](http://192.144.186.150/images/datahub/2.PNG)
 - 嵌入诗词对话系统搜索页面
 ![image](http://192.144.186.150/images/datahub/9.PNG)
+- 中文分词搜索  
+![image](http://192.144.186.150/images/datahub/8.PNG)
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
