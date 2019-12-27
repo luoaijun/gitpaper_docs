@@ -9,6 +9,9 @@
 - 日志：
 
 ```
+    - 2019.12.26-add 在搜索中嵌入了中文诗词对话系统
+    - 2019.12.26-delete 取消了即时搜索
+    - 2019.12.26-add 更新了即时搜索
     - 2019.12.26-update 使用jieba构建分词接口，更新了中文分词搜索 
     - 2019.12.26-Fix Search word 
     - 2019.12.25-更新了UI界面，并增加热搜词检索
@@ -22,8 +25,8 @@
 
 - 主页面  
 ![image](http://192.144.186.150/images/datahub/2.PNG)
-- 中文分词搜索  
-![image](http://192.144.186.150/images/datahub/8.PNG)
+- 嵌入诗词对话系统搜索页面
+![image](http://192.144.186.150/images/datahub/9.PNG)
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
