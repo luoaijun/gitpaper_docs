@@ -9,6 +9,8 @@
 - 日志：
 
 ```
+    - 2019.12.31-update hibernate to mybatis 
+    - 2019.12.31-fix searhWorch inseart
     - 2019.12.26-add 在搜索中嵌入了中文诗词对话系统
     - 2019.12.26-delete 取消了即时搜索
     - 2019.12.26-add 更新了即时搜索
