@@ -9,6 +9,7 @@
 - 日志：
 
 ```
+    - 2020.1.2-add 新增IP黑名单，拉黑恶意访问
     - 2019.12.31-update hibernate to mybatis 
     - 2019.12.31-fix searhWorch inseart
     - 2019.12.26-add 在搜索中嵌入了中文诗词对话系统
