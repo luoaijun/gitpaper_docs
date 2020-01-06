@@ -10,7 +10,7 @@
 
 ```
     - 2020.01.06-update ui
-    - 2020.01.06-add star and ref 
+    - 2020.01.06-add star and ref ,并为此构建了新的link模型
     - 2020.01.03-add sparksql 离线 IP黑名单处理写入mysql
     - 2020.01.03-cancel 撤销sqoop: mysql-hive 
     - 2020.01.03-add 新增定时增量更新，sqoop: mysql-hive 
