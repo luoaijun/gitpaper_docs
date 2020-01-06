@@ -9,6 +9,8 @@
 - 日志：
 
 ```
+    - 2020.01.06-update ui
+    - 2020.01.06-add star and ref 
     - 2020.01.03-add sparksql 离线 IP黑名单处理写入mysql
     - 2020.01.03-cancel 撤销sqoop: mysql-hive 
     - 2020.01.03-add 新增定时增量更新，sqoop: mysql-hive 
@@ -45,5 +47,7 @@
 ![image](http://192.144.186.150/images/datahub/5.PNG)
 - search页面
 ![image](http://192.144.186.150/images/datahub/6.PNG)
+- 详细信息页面
+![image](http://192.144.186.150/images/datahub/10.PNG)
 - 个人中心页面
 ![image](http://192.144.186.150/images/datahub/7.PNG)
