@@ -52,11 +52,16 @@
 - 个人中心页面
 ![image](http://192.144.186.150/images/datahub/7.PNG)
 
+
+
 ## Datahub-thinking
 ### 1. star+fork 绑定page_id+user_id
 1. 创建视图记录最新的user对于page的状态（star+fork）变更
 2. mybatis通过user_id+page_id读取视图中type,返回给前端
-3. 
+ 
+
+
+
 ## Datahub-idea
 1. 热搜词检索
 2. vue store.state 记录搜索历史
