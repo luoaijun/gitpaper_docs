@@ -9,7 +9,7 @@
 - 日志：
 
 ```
-    - 2020.01.06-前端 update ui
+    - 2020.01.06-前端 update ui,修正了logo
     - 2020.01.06-前端+后端 add star and ref ,并为此构建了新的link模型
     - 2020.01.03-数据后端 add sparksql 离线 IP黑名单处理写入mysql
     - 2020.01.03-数据后端 cancel 撤销sqoop: mysql-hive 
