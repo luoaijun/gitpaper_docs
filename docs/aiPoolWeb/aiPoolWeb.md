@@ -51,3 +51,30 @@
 ![image](http://192.144.186.150/images/datahub/10.PNG)
 - 个人中心页面
 ![image](http://192.144.186.150/images/datahub/7.PNG)
+
+## Datahub-thinking
+### 1. star+fork 绑定page_id+user_id
+1. 创建视图记录最新的user对于page的状态（star+fork）变更
+2. mybatis通过user_id+page_id读取视图中type,返回给前端
+3. 
+## Datahub-idea
+1. 热搜词检索
+2. vue store.state 记录搜索历史
+3. pdf+数据集外链
+4. pdf分为原著和转载，原著需提交资料申请证明
+5. 有原著证明的用户，直接提升为星级用户
+6. 所有资源增加引用和点赞功能
+7. 查看资源需要点赞或引用
+8. 原著类型资源才能被引用
+9. 追加排行榜，分为资源引用排行，资源点赞排行，用户获赞排行，用户获引用排行
+10. pdf检索功能，OCR+es检索
+11. 中文拼音搜索
+12. 分词搜索
+13. 英文搜索
+14. 标签与分类检索
+15. 新增ES搜索引擎
+16. ip黑名单
+17. fork + star 绑定user_id 和 page_id
+18. 添加用户行为记录（埋点）
+19. 增加自定义标签 
+20. 
