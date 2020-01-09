@@ -9,6 +9,7 @@
 - 日志：
 
 ```
+    - 2020.01.09-前端+后端 fix 修复了star和fork的显示bug
     - 2020.01.06-前端 update ui,修正了logo
     - 2020.01.06-前端+后端 add star and ref ,并为此构建了新的link模型
     - 2020.01.03-数据后端 add sparksql 离线 IP黑名单处理写入mysql
@@ -48,7 +49,8 @@
 - search页面
 ![image](http://192.144.186.150/images/datahub/6.PNG)
 - 详细信息页面
-![image](http://192.144.186.150/images/datahub/10.PNG)
+![image](http://192.144.186.150/images/datahub/10.PNG) 
+![image](http://192.144.186.150/images/datahub/11.PNG)
 - 个人中心页面
 ![image](http://192.144.186.150/images/datahub/7.PNG)
 
