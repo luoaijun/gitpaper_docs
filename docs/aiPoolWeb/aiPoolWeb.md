@@ -9,6 +9,7 @@
 - 日志：
 
 ```
+    - 2020.01.10-前端+后端 add 新增自定义标签
     - 2020.01.09-前端+后端 fix 修复了star和fork的显示bug
     - 2020.01.06-前端 update ui,修正了logo
     - 2020.01.06-前端+后端 add star and ref ,并为此构建了新的link模型
@@ -40,6 +41,8 @@
 ![image](http://192.144.186.150/images/datahub/9.PNG)
 - 中文分词搜索  
 ![image](http://192.144.186.150/images/datahub/8.PNG)
+- 自定义标签发布
+![image](http://192.144.186.150/images/datahub/12.PNG)
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
