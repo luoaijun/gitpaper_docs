@@ -9,6 +9,8 @@
 - 日志：
 
 ```
+    - 2020.01.13-前端+后端 add 新增PDF文件下载，调整了UI
+    - 2020.01.13-前端+后端 add 新增PDF文件上传
     - 2020.01.10-前端+后端 add 新增自定义标签
     - 2020.01.09-前端+后端 fix 修复了star和fork的显示bug
     - 2020.01.06-前端 update ui,修正了logo
@@ -43,6 +45,10 @@
 ![image](http://192.144.186.150/images/datahub/8.PNG)
 - 自定义标签发布
 ![image](http://192.144.186.150/images/datahub/12.PNG)
+- PDF文件上传
+![image](http://192.144.186.150/images/datahub/13.PNG)
+- PDF文件下载
+![image](http://192.144.186.150/images/datahub/14.PNG)
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
