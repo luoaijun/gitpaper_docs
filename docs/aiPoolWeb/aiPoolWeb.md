@@ -9,6 +9,7 @@
 - 日志：
 
 ```
+    - 2020.01.13-前端 add 新增PDF是否存在提示
     - 2020.01.13-前端+后端 add 新增PDF文件下载，调整了UI
     - 2020.01.13-前端+后端 add 新增PDF文件上传
     - 2020.01.10-前端+后端 add 新增自定义标签
@@ -49,6 +50,11 @@
 ![image](http://192.144.186.150/images/datahub/13.PNG)
 - PDF文件下载
 ![image](http://192.144.186.150/images/datahub/14.PNG)
+- PDF存在提示
+![image](http://192.144.186.150/images/datahub/15.PNG)
+![image](http://192.144.186.150/images/datahub/16.PNG)
+![image](http://192.144.186.150/images/datahub/17.PNG)
+
 - 分类页面
 ![image](http://192.144.186.150/images/datahub/3.PNG)
 - 标签页面
