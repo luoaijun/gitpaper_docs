@@ -100,7 +100,7 @@
       <workItem from="1577763764080" duration="344000" />
       <workItem from="1577929001084" duration="1944000" />
       <workItem from="1577959940178" duration="12895000" />
-      <workItem from="1578449628149" duration="13820000" />
+      <workItem from="1578449628149" duration="16954000" />
     </task>
     <task id="LOCAL-00001" summary="luoaijun.luoaijun init">
       <created>1568710460533</created>
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578994175359</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="update">
+      <created>1579083869639</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1579083869639</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
