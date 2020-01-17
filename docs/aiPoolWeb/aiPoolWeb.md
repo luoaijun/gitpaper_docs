@@ -9,6 +9,7 @@
 - 日志：
 
 ```
+    - 2020.01.15-前端+后端 update 更新了person界面的overview ，star，fork 界面的UI，并修复了部分bug
     - 2020.01.15-前端+后端 add    在个人界面增加了star和fork的项目
     - 2020.01.15-后端 fix    解决了多用户并发上传失败的bug
     - 2020.01.15-后端 update 调整了上传策率，由简单上传更新为分片上传，
@@ -75,6 +76,8 @@
 ![image](http://192.144.186.150/images/datahub/11.PNG)
 - 个人中心页面
 ![image](http://192.144.186.150/images/datahub/7.PNG)
+![image](http://192.144.186.150/images/datahub/18.PNG)
+![image](http://192.144.186.150/images/datahub/19.PNG)
 
 
 
