@@ -9,6 +9,10 @@
 - 日志：
 
 ```
+    - 2020.02.06-后端 fix pdf全文检索，增加hashcode标记
+    - 2020.02.05-后端 fix pdf全文检索
+    - 2020.01.28-后端 add pdf全文检索
+    - 2020.01.25-后端 add 新增pdf解析+elastic文档库
     - 2020.01.16-前端+后端 update 更新了person界面的overview ，star，fork 界面的UI，并修复了部分bug
     - 2020.01.15-前端+后端 add    在个人界面增加了star和fork的项目
     - 2020.01.15-后端 fix    解决了多用户并发上传失败的bug
