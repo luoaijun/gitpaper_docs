@@ -115,3 +115,14 @@
 18. 添加用户行为记录（埋点）
 19. 增加自定义标签 
 20. 
+
+## Problem Record
+1. 2020.3.6  luoaijun  Check  Processing  BUG: API模块打jar运行之后，PDF上传失败
+2. 2020.3.6  luoaijun  Check  Processing  BUG: 系统标签不美观，是否需要存在系统标签
+3. 2020.3.6  luoaijun  Check  Processing  BUG: PDF上传进度条存在bug
+4. 2020.3.6  luoaijun  Check  Processing  BUG: 提议(Proposal)板块需要继续改进
+5. 2020.3.6  luoaijun  Check  Processing  BUG: 个人界面和设置界面需要继续编写
+6. 2020.3.6  luoaijun  Check  Processing  BUG: 搜索词语义分析需要继续开发
+7. 2020.3.6  luoaijun  Check  Processing  BUG: 点击热搜词之后没有找到该词的搜索内容
+8. 2020.3.6  luoaijun  Check  Processing  BUG: 手机端适配问题
+9. 2020.3.6  luoaijun  Check  Processing  BUG: 自定义标签强制写
