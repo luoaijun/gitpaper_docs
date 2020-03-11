@@ -9,7 +9,8 @@
 - 日志：
 
 ```
-    - 2020.02.16-数据后端 通过sparkstreaming增加实时IP黑名单屏蔽
+    - 2020.03.10-前端 update 更新了UI
+    - 2020.02.16-数据后端 add 通过sparkstreaming增加实时IP黑名单屏蔽
     - 2020.02.06-后端 fix pdf全文检索，增加hashcode标记
     - 2020.02.05-后端 fix pdf全文检索
     - 2020.01.28-后端 add pdf全文检索
@@ -117,7 +118,7 @@
 20. 
 
 ## Problem Record
-1. 2020.3.6  luoaijun  Check  Processing  BUG: API模块打jar运行之后，PDF上传失败
+1. 2020.3.6  luoaijun  Check  Processing  BUG: API模块打Jar运行之后，PDF上传失败
 2. 2020.3.6  luoaijun  Check  Processing  BUG: 系统标签不美观，是否需要存在系统标签
 3. 2020.3.6  luoaijun  Check  Processing  BUG: PDF上传进度条存在bug
 4. 2020.3.6  luoaijun  Check  Processing  BUG: 提议(Proposal)板块需要继续改进
@@ -126,3 +127,4 @@
 7. 2020.3.6  luoaijun  Check  Processing  BUG: 点击热搜词之后没有找到该词的搜索内容
 8. 2020.3.6  luoaijun  Check  Processing  BUG: 手机端适配问题
 9. 2020.3.6  luoaijun  Check  Processing  BUG: 自定义标签强制写
+10. 2020.3.6  luoaijun  Check  Processing  BUG: 删除方式待改进
